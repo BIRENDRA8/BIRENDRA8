@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.animatedimages.org/data/media/523/animated-hello-image-0044.gif))]()
 
 <h1 align="center"> 👋, I'm Birendra</h1>
 <h3 align="center">A passionate developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birendra8&label=Profile%20views&color=0e75b6&style=flat" alt="birendra8" /> </p>
