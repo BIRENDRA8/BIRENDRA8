@@ -1,9 +1,9 @@
-video width="640" height="360" controls>
-        <source src="https://drive.google.com/file/d/1I0CBgbAo2b7JY8PnoC8hDroMu-UVtiia/view?usp=sharing" type="video/mp4">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center"> 👋, I'm Birendra</h1>
 <h3 align="center">A passionate developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=Ig42hLnk&id=11E343807A8F86148DD38B4C6B80E943E3DAE4CF&thid=OIP.Ig42hLnkTjZTE3EYC4StoQHaFb&mediaurl=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fprogramming-angry-punching-keyboard-fw45yh2e39g24ylb.gif&exph=500&expw=682&q=animated+computercprogramer&simid=608020894398035498&FORM=IRPRST&ck=8BFC492A06E896CAAF5D282D0EBE4900&selectedIndex=22&itb=0&cw=1382&ch=657&ajaxhist=0&ajaxserp=0")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birendra8&label=Profile%20views&color=0e75b6&style=flat" alt="birendra8" /> </p>
 
